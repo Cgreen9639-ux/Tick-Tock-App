@@ -1,8 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
 
  {
-    box-sizing: border-box;
+   box-sizing: border-box;
+
  }
+  
+ 
 
  body {
 background-image: url("unnamed.jpg");
@@ -22,10 +25,9 @@ margin:0;
  }
 
  .countdown-container {
-    display: flex; 4rem;
+    display: flex; 4rem; 
     margin-top: -10rem;
- }
-
+ 
  .big-text {
    font-size: Grem;
    line-height: 1;
